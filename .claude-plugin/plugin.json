@@ -1,0 +1,27 @@
+{
+  "name": "pbuilder",
+  "description": "How the best product builders use Pendo — 16 Claude skills for every stage of the product cycle",
+  "version": "0.1.0",
+  "author": {
+    "name": "Pendo",
+    "email": "product@pendo.io"
+  },
+  "homepage": "https://github.com/pendo-io/pbuilder",
+  "repository": "https://github.com/pendo-io/pbuilder",
+  "license": "MIT",
+  "keywords": [
+    "pendo",
+    "product-management",
+    "analytics",
+    "discovery",
+    "launch",
+    "retention"
+  ],
+  "mcpServers": {
+    "pendo": {
+      "type": "http",
+      "url": "https://app.pendo.io/mcp/v0/shttp",
+      "description": "Pendo analytics, feedback, session replays, guides, and segments"
+    }
+  }
+}
