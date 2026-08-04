@@ -1,8 +1,10 @@
 # pbuilder
 
-How the best product builders use Pendo.
+The best product builders don't wait for the weekly review to know what's happening. They know now.
 
-A collection of Claude skills for every stage of the product cycle — monitoring, discovery, validation, experimentation, launch, and measurement. Each skill is a slash command backed by live Pendo data.
+pbuilder is how Pendo's own product team uses Pendo — 16 Claude skills covering every stage of the cycle. Catch problems before users report them. Score ideas against real reach and impact data. Ship a feature and know by morning whether it landed.
+
+Each skill is a slash command. Every answer is live from your Pendo subscription. No exports, no dashboards, no waiting.
 
 Works with Claude Code and Cowork.
 
@@ -34,12 +36,14 @@ Keep a constant pulse on what's happening.
 | [`pulse`](./pulse/) | Weekly product health digest — usage trends, feedback themes, guide performance |
 | [`bug-radar`](./bug-radar/) | Daily scan for emerging bugs and errors before your users report them |
 | [`usage-watch`](./usage-watch/) | Daily usage checker — flag drops, spikes, and anomalies in key features |
+| [`weekly-prioritisation-assistant`](./weekly-prioritisation-assistant/) | Pull, cluster, and prioritise recent feedback from Pendo Listen — link top themes to backlog ideas |
 
 ### Uncover
 Find the real problems worth solving.
 
 | Skill | What it does |
 |---|---|
+| [`funnel-dropoff-investigator`](./funnel-dropoff-investigator/) | Diagnose where users abandon a flow — funnel metrics, session replays, and qual feedback in one report |
 | [`theme-scan`](./theme-scan/) | Thematic analysis of recent feedback — cluster signals into actionable themes |
 | [`ticket-dig`](./ticket-dig/) | Root cause analysis for a support ticket using session replays and devlogs |
 | [`blast-radius`](./blast-radius/) | How many users are affected by a known issue |
