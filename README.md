@@ -1,10 +1,12 @@
 # pbuilder
 
-The best product builders don't wait for the weekly review to know what's happening. They know now.
+**Your product is already telling you what to build next.**
 
-pbuilder is how Pendo's own product team uses Pendo — 16 Claude skills covering every stage of the cycle. Catch problems before users report them. Score ideas against real reach and impact data. Ship a feature and know by morning whether it landed.
+The teams that win aren't the ones who hear it first — they're the ones who act on it in the same breath. pbuilder puts a Claude skill at every turn of that loop: discover what's worth solving, validate before committing, launch with confidence, measure what landed.
 
-Each skill is a slash command. Every answer is live from your Pendo subscription. No exports, no dashboards, no waiting.
+Signal to decision to impact. Hours, not weeks.
+
+Every skill is backed by live data from your Pendo subscription.
 
 Works with Claude Code and Cowork.
 
