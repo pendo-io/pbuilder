@@ -38,7 +38,7 @@ Keep a constant pulse on what's happening.
 | [`pulse`](./pulse/) | Weekly product health digest — usage trends, feedback themes, guide performance |
 | [`bug-radar`](./bug-radar/) | Daily scan for emerging bugs and errors before your users report them |
 | [`usage-watch`](./usage-watch/) | Daily usage checker — flag drops, spikes, and anomalies in key features |
-| [`weekly-prioritisation-assistant`](./weekly-prioritisation-assistant/) | Pull, cluster, and prioritise recent feedback from Pendo Listen — link top themes to backlog ideas |
+| [`weekly-prio`](./weekly-prio/) | Pull, cluster, and prioritise recent feedback from Pendo Listen — link top themes to backlog ideas |
 
 ### Uncover
 Find the real problems worth solving.
