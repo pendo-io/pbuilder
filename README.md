@@ -36,9 +36,9 @@ Keep a constant pulse on what's happening.
 | Skill | What it does |
 |---|---|
 | [`pulse`](./pulse/) | Weekly product health digest — usage trends, feedback themes, guide performance |
-| [`bug-radar`](./bug-radar/) | Daily scan for emerging bugs and errors before your users report them |
-| [`usage-watch`](./usage-watch/) | Daily usage checker — flag drops, spikes, and anomalies in key features |
 | [`weekly-prio`](./weekly-prio/) | Pull, cluster, and prioritise recent feedback from Pendo Listen — link top themes to backlog ideas |
+| [`bug-radar`](./bug-radar/) | Daily scan for emerging bugs and errors before your users report them (coming soon) |
+| [`usage-watch`](./usage-watch/) | Daily usage checker — flag drops, spikes, and anomalies in key features (coming soon) |
 
 ### Uncover
 Find the real problems worth solving.
@@ -46,25 +46,26 @@ Find the real problems worth solving.
 | Skill | What it does |
 |---|---|
 | [`funnel-dropoff-investigator`](./funnel-dropoff-investigator/) | Diagnose where users abandon a flow — funnel metrics, session replays, and qual feedback in one report |
-| [`theme-scan`](./theme-scan/) | Thematic analysis of recent feedback — cluster signals into actionable themes |
-| [`ticket-dig`](./ticket-dig/) | Root cause analysis for a support ticket using session replays and devlogs |
-| [`blast-radius`](./blast-radius/) | How many users are affected by a known issue |
-| [`friction-map`](./friction-map/) | Blends rage clicks, drop-off, and qual feedback to surface where users are stuck |
+| [`friction-finder`](./friction-finder/) | Blends rage clicks, drop-off, and qual feedback to surface where users are stuck |
+| [`theme-scan`](./theme-scan/) | Thematic analysis of recent feedback — cluster signals into actionable themes (coming soon) |
+| [`ticket-dig`](./ticket-dig/) | Root cause analysis for a support ticket using session replays and devlogs (coming soon) |
+| [`blast-radius`](./blast-radius/) | How many users are affected by a known issue (coming soon) |
 
 ### Validate
 Build confidence before you commit.
 
 | Skill | What it does |
 |---|---|
-| [`rice-score`](./rice-score/) | RICE scoring grounded in real Pendo data — reach and impact pulled automatically |
-| [`idea-rank`](./idea-rank/) | Prioritise roadmap ideas by vote volume and customer segment |
-| [`discovery-invite`](./discovery-invite/) | Create a Pendo guide that recruits users for discovery interviews |
+| [`conviction-doc`](./conviction-doc/) | Draft and stress-test a pre-build conviction doc — evidence, tradeoffs, and kill metrics |
+| [`rice-score`](./rice-score/) | RICE scoring grounded in real Pendo data — reach and impact pulled automatically (coming soon) |
+| [`idea-rank`](./idea-rank/) | Prioritise roadmap ideas by vote volume and customer segment (coming soon) |
+| [`discovery-invite`](./discovery-invite/) | Create a Pendo guide that recruits users for discovery interviews (coming soon) |
 
 ### Experiment
 
 | Skill | What it does |
 |---|---|
-| [`fake-door`](./fake-door/) | Set up a fake door test — guide, click tracking, and results in one command |
+| [`fake-door`](./fake-door/) | Set up a fake door test — guide, click tracking, and results in one command (coming soon) |
 
 ### Tag
 
@@ -77,7 +78,7 @@ Ship with confidence, nothing missed.
 
 | Skill | What it does |
 |---|---|
-| [`launch-checklist`](./launch-checklist/) | End-to-end launch: feature flag, guide, sentiment survey, adoption goal, dashboard |
+| [`launch-checklist`](./launch-checklist/) | End-to-end launch: feature flag, guide, sentiment survey, adoption goal, dashboard (coming soon) |
 
 ### Measure
 Know if it landed.
@@ -85,8 +86,8 @@ Know if it landed.
 | Skill | What it does |
 |---|---|
 | [`launch-watch`](./launch-watch/) | Weekly launch health update — adoption curve, guide engagement, NPS movement |
-| [`bug-watch`](./bug-watch/) | Daily post-launch issue monitor — errors, regressions, support ticket spikes |
-| [`exec-brief`](./exec-brief/) | Exec-ready summary of a launch or feature — one paragraph, the numbers that matter |
+| [`bug-watch`](./bug-watch/) | Daily post-launch issue monitor — errors, regressions, support ticket spikes (coming soon) |
+| [`exec-brief`](./exec-brief/) | Exec-ready summary of a launch or feature — one paragraph, the numbers that matter (coming soon) |
 
 ---
 
